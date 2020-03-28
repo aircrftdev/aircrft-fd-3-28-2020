@@ -1,0 +1,41 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrft-fd-3-28-2020-prod-220127-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-prod-220127-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-prod-220127-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrft-fd-3-28-2020-prod-220127-deployment",
+            "UnauthRoleName": "amplify-aircrft-fd-3-28-2020-prod-220127-unauthRole",
+            "StackName": "amplify-aircrft-fd-3-28-2020-prod-220127",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrft-fd-3-28-2020-prod-220127/ad86ea80-713f-11ea-bd8c-0a60596032c9",
+            "AmplifyAppId": "d22jaox7rf65y2"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrft-fd-3-28-2020-test-220411-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-test-220411-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-test-220411-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrft-fd-3-28-2020-test-220411-deployment",
+            "UnauthRoleName": "amplify-aircrft-fd-3-28-2020-test-220411-unauthRole",
+            "StackName": "amplify-aircrft-fd-3-28-2020-test-220411",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrft-fd-3-28-2020-test-220411/0ecc0a00-7140-11ea-a755-0a7396047ff3",
+            "AmplifyAppId": "d22jaox7rf65y2"
+        }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrft-fd-3-28-2020-dev-220527-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-dev-220527-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrft-fd-3-28-2020-dev-220527-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrft-fd-3-28-2020-dev-220527-deployment",
+            "UnauthRoleName": "amplify-aircrft-fd-3-28-2020-dev-220527-unauthRole",
+            "StackName": "amplify-aircrft-fd-3-28-2020-dev-220527",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrft-fd-3-28-2020-dev-220527/3c17f4b0-7140-11ea-bd8c-0a60596032c9",
+            "AmplifyAppId": "d22jaox7rf65y2"
+        }
+    }
+}
